@@ -10,6 +10,7 @@ This Repository contains a collection of games written in the Go programming lan
 3. [Dockerization](#dockerization)
 4. [Contributing](#contributing)
 5. [License](#license)
+6. [Author](#author)
 
 ## Getting Started <a name="getting-started"></a>
 
@@ -35,7 +36,7 @@ Now you're ready to explore the games!!!
 * You can't play in a position that already played by another player
 * You Win if you have you sign aligned three times.
 
-### Usage
+#### Usage
 ```go
 cd tictactoe
 go build -o tictactoe
@@ -56,3 +57,7 @@ go build -o tictactoe
 ## License <a name="license"></a>
 
 <!-- Content for the "License" section goes here -->
+
+## Author <a name="author"></a>
+
+* [Bakarseck](https://github.com/Bakarseck)
