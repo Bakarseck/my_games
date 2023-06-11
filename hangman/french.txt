@@ -6,15 +6,34 @@ chat : Un animal domestique à quatre pattes, réputé pour son indépendance et
 soleil : L'étoile autour de laquelle la Terre tourne, source de lumière et de chaleur.
 voiture : Un moyen de transport à moteur à quatre roues utilisé pour se déplacer.
 livre : Un ensemble de pages reliées contenant des informations, des histoires ou des connaissances.
-école : Un établissement où les élèves reçoivent une éducation et suivent des cours.
+ecole : Un établissement où les élèves reçoivent une éducation et suivent des cours.
 musique : L'art de combiner des sons d'une manière harmonieuse et expressive.
 montagne : Une élévation naturelle du terrain, souvent avec des sommets pointus.
 fleurs : Les organes reproducteurs des plantes à fleurs, souvent appréciées pour leur beauté et leur parfum.
 plage : Une étendue de sable ou de galets près de l'océan, souvent visitée pour se détendre et se baigner.
 art : L'expression créative de la beauté et des idées à travers divers médiums.
-amitié : Une relation étroite et sincère entre deux personnes basée sur la confiance et le soutien mutuels.
+amitie : Une relation étroite et sincère entre deux personnes basée sur la confiance et le soutien mutuels.
 nature : L'ensemble des éléments et des phénomènes qui existent dans le monde physique.
 voyage : Le fait de se déplacer d'un endroit à un autre pour découvrir de nouveaux lieux et cultures.
 nourriture : Les substances consommées pour fournir de l'énergie et nourrir le corps.
-rêve : Une succession d'images, d'idées et de sensations qui se produisent pendant le sommeil.
+reve : Une succession d'images, d'idées et de sensations qui se produisent pendant le sommeil.
 joie : Un état de bonheur intense et de satisfaction intérieure.
+papillon : Un insecte volant avec de grandes ailes colorées et délicates.
+etoile : Un objet céleste lumineux qui brille dans le ciel nocturne.
+arbre : Une plante vivante avec une tige en bois et des branches, qui produit de l'oxygène et offre de l'ombre.
+oiseau : Un animal à plumes qui a la capacité de voler.
+bonjour : Une formule de salutation utilisée pour dire "hello" ou "hi" en français.
+etoile : Un symbole graphique en forme d'étoile utilisé pour représenter quelque chose de spécial ou de remarquable.
+chanson : Une composition musicale avec des paroles, souvent chantée.
+amitie : Une relation de camaraderie et d'affection entre des personnes proches.
+ecole : Un lieu d'éducation et d'apprentissage où les élèves suivent des cours et acquièrent des connaissances.
+ciel : L'étendue visible de l'atmosphère au-dessus de la Terre, habituellement de couleur bleue en journée.
+famille : Un groupe de personnes liées par le sang, le mariage ou les liens affectifs.
+soleil : Une étoile brillante qui éclaire la journée et fournit chaleur et lumière à la Terre.
+sourire : Une expression du visage indiquant la joie, le bonheur ou l'amusement.
+mer : Une grande étendue d'eau salée qui couvre une grande partie de la surface de la Terre.
+argent : Une forme de monnaie utilisée comme moyen d'échange et de valeur.
+chocolat : Une friandise sucrée faite à partir de fèves de cacao.
+lune : Le satellite naturel de la Terre qui orbite autour d'elle et qui est visible la nuit.
+jour : La période de temps où le soleil est visible dans le ciel, opposée à la nuit.
+nuit : La période de temps où il fait sombre et où le soleil n'est pas visible.
