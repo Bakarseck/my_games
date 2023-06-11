@@ -34,7 +34,9 @@ Now you're ready to explore the games!!!
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Rules</strong> : 
 * To play, you must give The position that you want to play you sign.
 * You can't play in a position that already played by another player
-* You Win if you have you sign aligned three times.
+* You Win if you have your sign aligned three times.
+
+Good luck playing TicTacToe!
 
 #### Usage
 ```go
@@ -44,6 +46,29 @@ go build -o tictactoe
 ```
 
 </details>
+
+<details>
+    <summary>Game2: Hangman</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Description</strong>: Hangman is a command-line implementation of the popular Hangman game, where a player tries to guess a word by suggesting letters one by one.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Rules</strong>:
+- A word is randomly chosen and its definition provided.
+- The player has to guess which letters the word contains by proposing them one by one.
+- The player suggests one letter at a time, and if that letter is present in the word, it is revealed at its corresponding position.
+- If the suggested letter is not present in the word, the player loses a point.
+- The player has a limited number of attempts to guess the complete word before losing the game.
+- The player wins if they manage to guess the word before exhausting all their attempts.
+
+Good luck playing Hangman!
+
+#### Usage
+```go
+cd hangman
+go build -o hangman
+./hangman
+```
+
+</details>    
 
 
 ## Dockerization <a name="dockerization"></a>
