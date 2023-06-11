@@ -1,0 +1,37 @@
+################################################################
+#                                                              #
+#                                                              #
+#                          Français                            #
+#                                                              #
+#                                                              #
+################################################################                                                               
+
+1. Je lis le mot à deviner
+2. J'affiche des underscores pour toute la longueur du mot à deviner
+3. Je récupère l'entrée de l'utilisateur
+4. Je verifie si la lettre donnée existe dans le mot
+5. Si oui, je remplace la place de la lettre par lui même
+6. Sinon j'ajoute un membre sur le pendu
+7. J'affiche de nouveau les lettres avec les underscores ou pas
+
+################################################################
+#                                                              #
+#                                                              #
+#                          Anglais                             #
+#                                                              #
+#                                                              #
+################################################################
+
+1. I read the word to devinate
+2. I Print underscores for the length of the word
+3. I take the user input
+4. I verify if the letter of the user input exist in the word
+5. If yes, I make the letter in the right place
+6. Else, I add a member in the hangman
+7. I print the new Word with underscores or else.
+
+ o
+ |
+/|\
+ |
+/|\

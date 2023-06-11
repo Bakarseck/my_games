@@ -1,0 +1,20 @@
+apple: Un fruit rond et comestible, généralement de couleur rouge, vert ou jaune
+cat: Un animal domestique à quatre pattes, souvent apprécié en tant que compagnon
+dog: Un animal domestique à quatre pattes, souvent gardien et compagnon de l'homme
+house: Un bâtiment résidentiel où les gens vivent
+book: Un ensemble de pages reliées contenant des informations, des histoires ou des images
+car: Un véhicule à moteur à quatre roues utilisé pour le transport des personnes
+sun: L'étoile qui se trouve au centre de notre système solaire et qui procure lumière et chaleur à la Terre
+music: L'art d'organiser les sons d'une manière agréable à l'oreille
+chair: Un siège ou un meuble sur lequel on s'assoit
+tree: Une plante vivante, dotée d'une tige en bois et de branches, qui pousse généralement en extérieur
+water: Une substance liquide transparente, essentielle à la vie sur Terre
+fire: Un phénomène de combustion qui produit de la chaleur, de la lumière et de la fumée
+earth: La planète sur laquelle nous vivons, également appelée la Terre
+sky: La région de l'atmosphère vue depuis la surface de la Terre, où le soleil, la lune et les étoiles sont visibles
+moon: Le satellite naturel de la Terre qui orbite autour d'elle
+love: Un profond sentiment d'affection, d'attachement et de tendresse envers quelqu'un ou quelque chose
+fime: Une mesure relative de la durée, utilisée pour organiser les événements et les activités
+food: Des substances consommées par les êtres vivants pour leur apporter de l'énergie et des nutriments
+game: Une activité ou un divertissement structuré, souvent joué selon des règles prédéfinies
+flower: Une structure végétale colorée et parfumée qui se trouve généralement sur les plantes à fleurs
