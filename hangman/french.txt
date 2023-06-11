@@ -1,0 +1,20 @@
+amour : Un profond sentiment d'affection et d'attachement envers quelqu'un.
+bonheur : Un état de satisfaction, de contentement et de joie.
+maison : Un bâtiment où les personnes vivent et résident.
+chien : Un animal domestique à quatre pattes, souvent considéré comme le meilleur ami de l'homme.
+chat : Un animal domestique à quatre pattes, réputé pour son indépendance et sa souplesse.
+soleil : L'étoile autour de laquelle la Terre tourne, source de lumière et de chaleur.
+voiture : Un moyen de transport à moteur à quatre roues utilisé pour se déplacer.
+livre : Un ensemble de pages reliées contenant des informations, des histoires ou des connaissances.
+école : Un établissement où les élèves reçoivent une éducation et suivent des cours.
+musique : L'art de combiner des sons d'une manière harmonieuse et expressive.
+montagne : Une élévation naturelle du terrain, souvent avec des sommets pointus.
+fleurs : Les organes reproducteurs des plantes à fleurs, souvent appréciées pour leur beauté et leur parfum.
+plage : Une étendue de sable ou de galets près de l'océan, souvent visitée pour se détendre et se baigner.
+art : L'expression créative de la beauté et des idées à travers divers médiums.
+amitié : Une relation étroite et sincère entre deux personnes basée sur la confiance et le soutien mutuels.
+nature : L'ensemble des éléments et des phénomènes qui existent dans le monde physique.
+voyage : Le fait de se déplacer d'un endroit à un autre pour découvrir de nouveaux lieux et cultures.
+nourriture : Les substances consommées pour fournir de l'énergie et nourrir le corps.
+rêve : Une succession d'images, d'idées et de sensations qui se produisent pendant le sommeil.
+joie : Un état de bonheur intense et de satisfaction intérieure.
