@@ -15,7 +15,7 @@ body {
 }
 
 body h1 {
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-align: center;
     padding-top: 50px;
 }
@@ -32,11 +32,14 @@ body h1 {
     transform: translate(-50%, -50%);
     border-radius: 30px;
     cursor: pointer;
+    transition: all 0.3s;
 }
 
 .start:hover {
     background-color: var(--background-color);
     color: var(--text-color);
+    transform: translate(-50%, -50%) scale(1.1);
+    
 }
 
 .container {
