@@ -28,7 +28,6 @@ class ChessGame {
             value.addEventListener('click', (event) => {
                 
                 this.move(value);
-                console.log(this.isOrange);
             });
         });
     }
@@ -59,6 +58,7 @@ class ChessGame {
                         this.movePion(this.pionToMove, value);
                     }
 
+                    this.verifier()
                 }
 
             }
@@ -188,6 +188,18 @@ class ChessGame {
 
         this.isOrange = !this.isOrange;
         parent.append(img);
+    }
+
+    verifier() {
+        let allImages = document.querySelectorAll("img")
+        let currentImage = allImages[0].getAttribute("src")
+        for (let i = 1; i < allImages.length; i++) {
+            let image = allImages[i].getAttribute("src")
+            if (image != currentImage) {
+                return
+            }
+        }
+        alert(`${currentImage} a gagné`)
     }
 
     /**
