@@ -7,7 +7,6 @@
  * of their digits raised to the power of `n`.
  */
 function digitnPowers(n) {
-    let max = parseInt(Array(n).fill(9).join(''));
     let s = 0;
     for (let i = 2; i <= 355000; i++) {
         s += decomposition(i, n);

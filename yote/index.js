@@ -10,7 +10,7 @@ class ChessGame {
         this.remainingGreen = 12;
         this.startTime = null;
     }
-
+    
     
     /**
      * The function `changeBody()` updates the content of the body element, sets up a timer, creates a
